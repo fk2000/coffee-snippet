@@ -14,3 +14,5 @@ app.get '/error', (req, res) ->
 
 http.listen port, ->
   console.log "listening on *:", port
+
+app.use './images', app.static('images')

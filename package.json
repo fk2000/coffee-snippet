@@ -1,0 +1,22 @@
+{
+  "name": "coffee-snippet",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "lib/app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fk2000/coffee-snippet.git"
+  },
+  "author": "fk2000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fk2000/coffee-snippet/issues"
+  },
+  "homepage": "https://github.com/fk2000/coffee-snippet#readme"
+}
